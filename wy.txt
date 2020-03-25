@@ -1,0 +1,5 @@
+[
+{"slowo1":"Aal","slowo2":"Ala","anagram":"TAK"},
+{"slowo1":"Aal","slowo2":"Bbb","anagram":"NIE"},
+{"slowo1":"AAAB","slowo2":"AAB","anagram":"NIE"},
+]
